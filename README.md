@@ -15,13 +15,13 @@
    + Adding DbContext
    + Creating Connection String
    + Creating database using EF Code First with Migration
-   - Adding User API Controller
-   - Saving code to the Source Control
+   + Adding User API Controller
+   + Saving code to the Source Control
 3. Building Single Page App - Angular
-   - Introduction Angular
-   - Creating Angular App via Angular CLI
-   - Running Angular project and reviewing the structure
-   - Adding VS Code extension to work with Angular
+   + Introduction Angular
+   + Creating Angular App via Angular CLI
+   + Running Angular project and reviewing the structure
+   + Adding VS Code extension to work with Angular
    - Making HTTP requests in Angular App
    - Adding CORS support in the API
    - Displaying the fetched users in the browser
