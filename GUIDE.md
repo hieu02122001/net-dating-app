@@ -49,3 +49,20 @@ dotnet ef migrations add InitialDB -p ./DatingApp.API -o Database/Migrations
 ```
 dotnet ef database update -p ./DatingApp.API/
 ```
+## 3. Các lệnh của angular
+- Tạo một angular app
+```
+ng new dating-app
+```
+- Chạy server
+```
+ng serve
+```
+- Tạo một component
+```
+ng g c navbar --skip-tests
+```
+- Tạo một service
+```
+ng g s _services/users --skip-tests
+```

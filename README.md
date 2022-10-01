@@ -22,9 +22,9 @@
    + Creating Angular App via Angular CLI
    + Running Angular project and reviewing the structure
    + Adding VS Code extension to work with Angular
-   - Making HTTP requests in Angular App
-   - Adding CORS support in the API
-   - Displaying the fetched users in the browser
+   + Making HTTP requests in Angular App
+   + Adding CORS support in the API
+   + Displaying the fetched users in the browser
    - Adding Bootstrap and font
    - Saving code to the Source Control
 4. Authentication basics - API
